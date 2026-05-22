@@ -1,4 +1,6 @@
+```text
 === Summary for Waiheke Island ===
+
 Total island area (m²):                                        92,964,518.37
 Total number of buildings:                                     11795
 Total area covered by buildings (m²):                          1,021,861.90
