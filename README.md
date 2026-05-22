@@ -7,3 +7,6 @@ Total area covered by buildings (m²):                          1,021,861.90
 Number of residential areas according to OpenStreetMap:        243
 Total number of buildings in residential areas:                8,967
 Number of buildings not in residential areas:                  2,828
+```
+
+Disbitution of buildings in Waiheke in an [interactive map](https://slzhang-git.github.io/SolarPanelDistribution_Waiheke/Buildings_in_Waiheke.html)
