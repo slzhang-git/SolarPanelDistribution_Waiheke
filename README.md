@@ -15,7 +15,7 @@ Number of buildings not in residential areas:                  2,828
 
 Number of residential buildings with solar panel:              205
 Total number of solar panels on residential building rooftop:  300
-Total area of solar panels on residential building rooftop:    4891.5 square meters
+Total area of solar panels on residential building rooftop:    4891.5 m²
 ```
 
 Disbitution of buildings in Waiheke in an [interactive map](https://slzhang-git.github.io/SolarPanelDistribution_Waiheke/Buildings_in_Waiheke.html)
