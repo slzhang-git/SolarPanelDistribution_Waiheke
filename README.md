@@ -1,3 +1,8 @@
+We use our method introduced in our paper: **_AI and Open-data Driven Scalable Solar Power Profiling_** to detect solar panels in the island of Waiheke in New Zealand.
+Pre-print version of our paper: [doi: 10.48550/arXiv.2605.02738](https://doi.org/10.48550/arXiv.2605.02738)
+
+Below is the detection result:
+
 ```text
 === Summary for Waiheke Island ===
 
