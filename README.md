@@ -32,4 +32,6 @@ Total number of panels on non-residential building rooftop:    148
 Total area of panels on non-residential building rooftop:      3058.57 m²
 ```
 
-Disbitution of buildings in Waiheke in an [interactive map](https://slzhang-git.github.io/SolarPanelDistribution_Waiheke/Buildings_in_Waiheke.html)
+Disbitution of buildings in Waiheke in an [interactive map](https://slzhang-git.github.io/SolarPanelDistribution_Waiheke/Buildings_in_Waiheke.html). Below is a static visualization:
+
+<img width="2316" height="1268" alt="Screenshot 2026-05-26 at 14 35 01" src="https://github.com/user-attachments/assets/829a8fb8-1df1-47b7-b2f3-d9a67799261d" />
